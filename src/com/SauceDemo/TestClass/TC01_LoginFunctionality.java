@@ -69,6 +69,7 @@ public class TC01_LoginFunctionality
 		@AfterMethod
 		public void tearDownMethod()
 		{
+			System.out.println("ok");
 		driver.quit();
 		}
 	}
