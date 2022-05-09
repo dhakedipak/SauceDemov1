@@ -26,10 +26,10 @@ public class POM01_LoginPage
 	}
 	
 //	=======================================================================\\
-	public void sendUserName()
-	{
-		username.sendKeys("standard_user");
-	}
+//	public void sendUserName()
+//	{
+//		username.sendKeys("standard_user");
+//	}
 //	======================================================================\\
 	public void sendPassword()
 	{
